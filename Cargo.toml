@@ -1,0 +1,9 @@
+[package]
+name = "panch"
+version = "0.1.0"
+authors = ["Benjamin Große <benjamin@midokura.com>"]
+edition = "2018"
+
+[dependencies]
+git2 = "0.10.1"
+chrono = "0.4"
